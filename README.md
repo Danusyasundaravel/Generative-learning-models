@@ -15,8 +15,7 @@ Data collected from https://www.indiabudget.gov.in/bspeech.php where past four y
 ## Repository Structure
 
 - `data/`: Contains the raw and preprocessed budget speech text data.
-- `notebooks/`: python file with text preprocessing, topic modeling, and visualizing the elbow curve.
-- `results/`: Contains the results of the topic modeling and the elbow curve image.
+- `Topi-modelling.ipnyb`: python file with text preprocessing, topic modeling, and visualizing the elbow curve.
 - `README.md`: Project overview and instructions.
 - `requirements.txt`: List of Python packages required to run the code.
 
