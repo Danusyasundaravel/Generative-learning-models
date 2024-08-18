@@ -16,7 +16,7 @@ Data collected from https://www.indiabudget.gov.in/bspeech.php where past four y
 
 - `data/`: Contains the raw and preprocessed budget speech text data.
 - `Topi-modelling.ipnyb`: python file with text preprocessing, topic modeling, and visualizing the elbow curve.
-- `README.md`: Project overview and instructions.
+- `README.md`: Project overview.
 - `requirements.txt`: List of Python packages required to run the code.
 
 
