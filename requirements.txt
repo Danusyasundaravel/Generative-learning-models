@@ -1,7 +1,0 @@
-gensim==4.1.2          # For topic modeling with LDA
-matplotlib==3.4.3      # For plotting the elbow curve
-pyLDAvis==3.4.1          # For visualizing the distribution of topics
-pyPDF==1.3.3          # For data read and write process
-nltk==3.6.3            # For text preprocessing (tokenization, stopwords, lemmatization)    
-scikit-learn==0.24.2   # Optional: For additional data processing or clustering techniques
-spacy                  # For lemmatization
